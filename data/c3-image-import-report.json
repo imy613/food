@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-04-23T18:24:17.679Z",
+  "stats": {
+    "downloadedRows": 4,
+    "copiedFiles": 4,
+    "updatedFoods": 4,
+    "missingSource": 0,
+    "unmatchedProvince": 0,
+    "unmatchedRegion": 0,
+    "unmatchedFood": 0,
+    "duplicateDownloadedSlotsSkipped": 0
+  },
+  "unresolved": []
+}

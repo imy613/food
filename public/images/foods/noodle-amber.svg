@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D6B98C"/>
+      <stop offset="100%" stop-color="#8F5E3B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g2)"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#1F1A17" font-size="74" font-family="'Noto Serif SC', serif">面食记忆</text>
+</svg>
+

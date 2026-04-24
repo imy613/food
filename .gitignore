@@ -1,0 +1,30 @@
+.next/
+node_modules/
+coverage/
+playwright-report/
+test-results/
+dist/
+out/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local env/tooling
+.env*
+!.env.example
+*.local
+tools/**/.venv*/
+tools/**/download_log*.csv
+
+# OS / editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local dataset/packages (do not publish)
+*.zip
+download_log.csv
+中国34省分区美食_终极结构版_C3扩充资源包/
+中国34省分区美食真实图片下载工具包/
+中国34省真实图库/
